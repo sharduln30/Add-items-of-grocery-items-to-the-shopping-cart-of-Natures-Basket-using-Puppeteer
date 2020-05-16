@@ -6,4 +6,5 @@ Note: First install puppeteer before running the .bat file.
 How to install:  
 npm install puppeteer
 
-Video of the complete project doing automation: https://www.linkedin.com/posts/shardul-negi-726bb0153_puppeteer-pepcoding-activity-6665416975235330049-LS7_
+Video of the complete project doing automation: https://www.linkedin.com/posts/shardul-negi-726bb0153_puppeteer-pepcoding-activity-6665416975235330049-LS7_   
+To view the link copy the complete link including an underscore at the end.
